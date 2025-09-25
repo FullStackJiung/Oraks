@@ -1,0 +1,45 @@
+Privacy Policy
+Last updated: 2026-09-25
+
+[Oraks] (“the App”) recognizes the importance of user privacy and complies with applicable privacy laws. The App minimizes the collection of personally identifiable information and discloses the following policy.
+
+1. Information We Collect
+The App does not ask users to create accounts, log in, or provide personal details.
+However, the App integrates third-party SDKs that may automatically collect data:
+
+Google AdMob (Advertising)
+
+Advertising identifiers (e.g., Android Advertising ID)
+App usage data related to ads (impressions, clicks, errors)
+Approximate location information for ad targeting
+Google Privacy Policy: https://policies.google.com/privacy
+Google Play Billing (In-App Purchases)
+
+Purchase requests and purchase tokens required to process transactions
+Payment information is handled directly by Google; the App developer does not access or store detailed payment data.
+2. How We Use Information
+Data collected by AdMob is used by Google to deliver and optimize ads. The developer does not store or process this data for personal identification.
+Purchase information supplied by Google Play Billing is used solely to fulfill in-app purchases and deliver virtual goods (e.g., coins).
+No additional secondary use or storage occurs on the developer’s servers.
+3. Data Retention and Storage
+The App itself does not store personal data. Any data collected by AdMob or Google Play Billing is retained according to Google’s own policies.
+Users can reset or limit personalized ads from the Android system settings.
+
+4. Data Sharing with Third Parties
+For advertising and billing features, the App shares information only with:
+
+Google LLC (AdMob, Google Play Billing) – as described above
+No other third-party sharing occurs.
+5. User Rights
+Users may manage ad personalization or reset the advertising ID via Google’s advertising settings (https://adssettings.google.com).
+Refunds or purchase issues are handled via Google Play purchase history and Google support.
+6. Children’s Privacy
+The App is not directed to children under 13. If a child uses the App, a parent or guardian should supervise usage. The developer does not knowingly collect personal data from children.
+
+7. Contact Information
+Developer: [Jiung Yang]
+Email: [stacksjiung@gmail.com]
+Please contact us if you have questions about this policy or privacy concerns.
+8. Changes to This Policy
+We may update this Privacy Policy from time to time. Significant changes will be announced within the App or on this page.
+
