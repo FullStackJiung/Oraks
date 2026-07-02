@@ -1,45 +1,59 @@
 Privacy Policy
-Last updated: 2026-09-25
+Last updated: 2026-07-02
 
 [Oraks] (“the App”) recognizes the importance of user privacy and complies with applicable privacy laws. The App minimizes the collection of personally identifiable information and discloses the following policy.
 
 1. Information We Collect
-The App does not ask users to create accounts, log in, or provide personal details.
-However, the App integrates third-party SDKs that may automatically collect data:
+The App does not require users to create an account, log in, or provide personal details.
+
+However, the App integrates third-party services that may collect or process data:
 
 Google AdMob (Advertising)
-
-Advertising identifiers (e.g., Android Advertising ID)
-App usage data related to ads (impressions, clicks, errors)
-Approximate location information for ad targeting
+- Advertising identifiers
+- App usage data related to ads, such as impressions, clicks, and errors
+- Approximate location information for ad targeting
 Google Privacy Policy: https://policies.google.com/privacy
-Google Play Billing (In-App Purchases)
 
-Purchase requests and purchase tokens required to process transactions
-Payment information is handled directly by Google; the App developer does not access or store detailed payment data.
+In-App Purchases
+- Purchase requests and purchase tokens required to process transactions
+- Payment information is handled directly by Apple App Store or Google Play. The App developer does not access or store detailed payment information.
+
+Global Leaderboard
+If the user agrees to submit a score to the global leaderboard, the App uploads the user’s nickname, game identifier, best score, selected profile image, Firebase anonymous user ID, and update time to Firebase services operated by Google. If the user does not consent, scores remain stored locally on the device and are not uploaded.
+
 2. How We Use Information
-Data collected by AdMob is used by Google to deliver and optimize ads. The developer does not store or process this data for personal identification.
-Purchase information supplied by Google Play Billing is used solely to fulfill in-app purchases and deliver virtual goods (e.g., coins).
-No additional secondary use or storage occurs on the developer’s servers.
+AdMob data is used by Google to deliver and optimize ads.
+
+Purchase information is used solely to process in-app purchases and deliver virtual goods, such as coins.
+
+Leaderboard data is used only to display, rank, sync, and maintain the global leaderboard.
+
 3. Data Retention and Storage
-The App itself does not store personal data. Any data collected by AdMob or Google Play Billing is retained according to Google’s own policies.
-Users can reset or limit personalized ads from the Android system settings.
+Leaderboard data is stored in Firebase services operated by Google and may remain until it is deleted or replaced by a newer score.
+
+Scores that are not submitted to the global leaderboard remain stored locally on the user’s device.
+
+Data collected by AdMob, Apple App Store, Google Play, or Firebase is retained according to each provider’s own policies.
 
 4. Data Sharing with Third Parties
-For advertising and billing features, the App shares information only with:
+The App may share data with the following third-party service providers only for the purposes described in this policy:
 
-Google LLC (AdMob, Google Play Billing) – as described above
-No other third-party sharing occurs.
+Google LLC: AdMob, Firebase Authentication, Cloud Firestore, Google Play Billing
+Apple Inc.: App Store in-app purchase processing
+
 5. User Rights
-Users may manage ad personalization or reset the advertising ID via Google’s advertising settings (https://adssettings.google.com).
-Refunds or purchase issues are handled via Google Play purchase history and Google support.
+Users may choose not to submit scores to the global leaderboard. If the user does not consent, leaderboard data is not uploaded.
+
+Users may manage ad personalization or reset the advertising ID through their device settings.
+
+For privacy questions or deletion requests related to leaderboard data, please contact the developer.
+
 6. Children’s Privacy
 The App is not directed to children under 13. If a child uses the App, a parent or guardian should supervise usage. The developer does not knowingly collect personal data from children.
 
 7. Contact Information
-Developer: [Jiung Yang]
-Email: [stacksjiung@gmail.com]
-Please contact us if you have questions about this policy or privacy concerns.
+Developer: Jiung Yang
+Email: stacksjiung@gmail.com
+
 8. Changes to This Policy
 We may update this Privacy Policy from time to time. Significant changes will be announced within the App or on this page.
-
